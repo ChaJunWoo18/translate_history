@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE level1 SYSTEM "history.dtd">
+<level1 id="waa">
+  <front>
+    <biblioData type="L">
+      <title>
+        <mainTitle>太祖實錄</mainTitle>  <!-- 태조실록-->
+        <alternative> 太祖康獻大王實錄</alternative> <!--책 이름. 조선태조실록(朝鮮太祖實錄)의 표제명.-->
+      </title>
+    </biblioData>
+  </front>
+  <level2 id="waa_000">
+    <front>
+      <biblioData type="L">
+        <title>
+        <!-- 총서 : 서문 -->
+          <mainTitle>總序</mainTitle>   
+        </title>
+      </biblioData>
+    </front>
+    <text>
+      <content>
+      <!-- 태조실록 서문 -->
+        <paragraph align="center"> 太祖實錄 總序</paragraph>
+      </content>
+    </text>
+    <level3 id="waa_000001">
+      <front>
+        <biblioData type="T">
+          <title>
+            <mainTitle>태조 이성계 선대의 가계. 목조 이안사가 전주에서 삼척·의주를 거쳐 알동에 정착하다 </mainTitle>
+          </title>
+          <source>
+          <!-- 태조실록 1책 1권 -->
+            <mainTitle type="태백산사고본">太祖實錄 1책 1권</mainTitle>
+            <page begin="1장 A면"/>
+          </source>
+          <source>
+            <mainTitle type="국편영인본">太祖實錄 1책</mainTitle>
+            <page begin="1면"/>
+          </source>
+          <subjectClass>인물(人物)</subjectClass>
+          <subjectClass>역사(歷史)</subjectClass>
+          <subjectClass>왕실(王室)</subjectClass>
+          <subjectClass>외교-원(元)</subjectClass>
+        </biblioData>
+      </front>
+      <text>
+        <content>
+          <paragraph align="center">
+            <index num="0000001_0" ref="M_0000889" sort="K" type="이름">太祖康獻至仁啓運聖文神武大王</index>, 
+            姓<index num="0000002_0" ref="M_0000889" sort="K" type="이름">李氏</index>, 
+            諱<index num="0000003_0" ref="M_0000889" sort="K" type="이름">旦</index>, 
+            字<index num="0000004_0" ref="M_0000889" sort="K" type="이름">君晋</index>, 
+            古諱<index num="0000005_0" ref="M_0000889" sort="K" type="이름">成桂</index>, 
+            號<index num="0000006_0" ref="M_0000889" sort="K" type="이름">松軒</index>, 
+            <index num="0000007_0" sort="K" type="지명">全州</index>大姓也。 有司空諱
+            <index num="0000008_0" ref="M_0000766" sort="K" type="이름">翰</index>仕
+            <index num="0000009_0" sort="K" type="지명">新羅</index>, 娶
+            <index num="0000010_0" ref="M_0032683" sort="K" type="이름">太宗王</index>十世孫軍尹
+            <index num="0000011_0" ref="M_0034437" sort="K" type="이름">金殷義</index>之女, 生侍中諱
+            <index num="0000012_0" ref="M_0008366" sort="K" type="이름">自延</index>。 侍中生僕射諱
+            <index num="0000013_0" ref="M_0043856" sort="K" type="이름">天祥</index>, 僕射生阿干諱
+            <index num="0000014_0" ref="M_0039827" sort="K" type="이름">光禧</index>, 阿干生司徒三重大匡諱
+            <index num="0000015_0" ref="M_0008367" sort="K" type="이름">立全</index>。 司徒生諱
+            <index num="0000016_0" ref="M_0008368" sort="K" type="이름">兢休</index>, 
+            <index num="0000017_0" ref="M_0008368" sort="K" type="이름">兢休</index>生諱
+            <index num="0000018_0" ref="M_0008369" sort="K" type="이름">廉順</index>, 
+            <index num="0000019_0" ref="M_0008369" sort="K" type="이름">廉順</index>生諱
+            <index num="0000020_0" ref="M_0041736" sort="K" type="이름">承朔</index>, 
+            <index num="0000021_0" ref="M_0041736" sort="K" type="이름">承朔</index>生諱
+            <index num="0000022_0" ref="M_0043990" sort="K" type="이름">充慶</index>, 
+            <index num="0000023_0" ref="M_0043990" sort="K" type="이름">充慶</index>生諱
+            <index num="0000024_0" ref="M_0039540" sort="K" type="이름">景英</index>, 
+              <index num="0000025_0" ref="M_0039540" sort="K" type="이름">景英</index>生諱
+              <index num="0000026_0" ref="M_0043995" sort="K" type="이름">忠敏</index>, 
+              <index num="0000027_0" ref="M_0043995" sort="K" type="이름">忠敏</index>生諱
+              <index num="0000028_0" ref="M_0008370" sort="K" type="이름">華</index>, 
+              <index num="0000029_0" ref="M_0008370" sort="K" type="이름">華</index>生諱
+              <index num="0000030_0" ref="M_0043735" sort="K" type="이름">珍有</index>, 
+              <index num="0000031_0" ref="M_0043735" sort="K" type="이름">珍有</index>生諱
+              <index num="0000032_0" ref="M_0008371" sort="K" type="이름">宮進</index>, 
+              <index num="0000033_0" ref="M_0008371" sort="K" type="이름">宮進</index>生大將軍諱
+              <index num="0000034_0" ref="M_0042257" sort="K" type="이름">勇夫</index>, 大將軍生內侍執奏諱
+              <index num="0000035_0" ref="M_0008372" sort="K" type="이름">隣</index>。 執奏娶侍中
+              <index num="0000036_0" ref="M_0002273" sort="K" type="이름">文公</index>諱<index num="0000037_0" ref="M_0002273" sort="K" type="이름">克謙</index>之女, 生將軍諱<index num="0000038_0" ref="M_0041956" sort="K" type="이름">陽茂</index>, 將軍娶上將軍<index num="0000039_0" ref="M_0039389" sort="K" type="이름">李公</index>諱<index num="0000040_0" ref="M_0039389" sort="K" type="이름">康濟</index>之女, 生諱<index num="0000041_0" ref="M_0045906" sort="K" type="이름">安社</index>, 是爲<index num="0000042_0" ref="M_0045906" sort="K" type="이름">穆祖</index>, 性豪放, 有志四方。 初在<index num="0000043_0" sort="K" type="지명">全州</index>, 時年二十餘, 勇略過人。 山城別監入館, 因官妓事, 與州官有隙, 州官與按廉議上聞, 發兵圖之。 <index num="0000044_0" ref="M_0045906" sort="K" type="이름">穆祖</index>聞之, 遂徙居<index num="0000045_0" sort="K" type="지명">江陵道</index>
+            <index num="0000046_0" sort="K" type="지명">三陟縣</index>, 民願從而徙者, 百七十餘家。 嘗造船十五隻以備<index num="0000047_0" sort="J" type="지명">倭</index>。 旣, <index num="0000048_0" sort="K" type="지명">元</index>
+            <index num="0000049_0" sort="M" type="이름">也窟大王</index>兵侵諸郡, <index num="0000050_0" ref="M_0045906" sort="K" type="이름">穆祖</index>保<index num="0000051_0" sort="K" type="지명">頭陀山城</index>以避亂。 適前日山城別監, 新除按廉使, 又將至。 <index num="0000052_0" ref="M_0045906" sort="K" type="이름">穆祖</index>恐禍及, 挈家浮海, 至東北面<index num="0000053_0" sort="K" type="지명">宜州</index>
+            <annotation type="원주">
+              <noteContent>【卽<index num="0000054_0" sort="K" type="지명">(德原)〔德源〕</index>。】</noteContent>
+            </annotation>止焉。 民一百七十餘戶亦從之, 東北之民, 多歸心焉。 於是, <index num="0000055_0" sort="K" type="지명">高麗</index>以<index num="0000056_0" ref="M_0045906" sort="K" type="이름">穆祖</index>爲<index num="0000057_0" sort="K" type="지명">宜州</index>兵馬使, 鎭<index num="0000058_0" sort="K" type="지명">高原</index>以禦<index num="0000059_0" sort="K" type="지명">元</index>兵。 時<index num="0000060_0" sort="K" type="지명">雙城</index>以北,<annotation type="원주">
+              <noteContent>【<index num="0000061_0" sort="K" type="지명">雙城</index>卽<index num="0000062_0" sort="K" type="지명">永興</index>。】</noteContent>
+            </annotation>屬于<index num="0000063_0" sort="K" type="지명">開元路</index>。 <index num="0000064_0" sort="K" type="지명">元</index>
+            <index num="0000065_0" sort="M" type="이름">散吉大王</index>來屯<index num="0000066_0" sort="K" type="지명">雙城</index>, 謀取<index num="0000067_0" sort="K" type="지명">鐵嶺</index>以北, 再遣人請<index num="0000068_0" ref="M_0045906" sort="K" type="이름">穆祖</index>降<index num="0000069_0" sort="K" type="지명">元</index>, <index num="0000070_0" ref="M_0045906" sort="K" type="이름">穆祖</index>不得已率<index num="0000071_0" ref="M_0008373" sort="K" type="이름">金甫奴</index>等一千餘戶降。 前此, <index num="0000072_0" sort="K" type="지명">平壤</index>民聞<index num="0000073_0" ref="M_0045906" sort="K" type="이름">穆祖</index>威望, 多有附者。 至是與從之, <index num="0000074_0" sort="M" type="이름">散吉</index>大喜, 禮待甚厚, 置盛宴歡飮。 將罷, <index num="0000075_0" sort="M" type="이름">散吉</index>親以玉杯, 納諸<index num="0000076_0" ref="M_0045906" sort="K" type="이름">穆祖</index>懷中曰: "公之家人, 安知吾二人相與之至情! 聊以玉杯表吾情耳。" 因相與誓曰: "自後無相忘也。" <index num="0000077_0" ref="M_0045906" sort="K" type="이름">穆祖</index>乃以族女妻<index num="0000078_0" sort="M" type="이름">散吉</index>。 <index num="0000079_0" ref="M_0045906" sort="K" type="이름">穆祖</index>由水陸路至<index num="0000080_0" sort="M" type="지명">時利</index>,<annotation type="원주">
+              <noteContent>【卽<index num="0000081_0" sort="M" type="지명">利城</index>。】</noteContent>
+            </annotation> 其千戶以兵阻之。 <index num="0000082_0" ref="M_0045906" sort="K" type="이름">穆祖</index>語以歸順之意, 千戶宴慰甚厚, <index num="0000083_0" ref="M_0045906" sort="K" type="이름">穆祖</index>亦以牛馬報之。 遂至<index num="0000084_0" sort="K" type="지명">開元路</index>
+            <index num="0000085_0" sort="K" type="지명">南京</index>之<index num="0000086_0" sort="M" type="지명">斡東</index>居焉。 寔<index num="0000087_0" sort="K" type="지명">宋</index>
+            <index num="0000088_0" ref="M_0032594" sort="A" type="이름">理宗</index>
+            <index num="0000089_0" type="연호">寶祐</index>二年, <index num="0000090_0" sort="K" type="지명">元</index>
+            <index num="0000091_0" ref="M_0051953" sort="A" type="이름">憲宗</index>四年, <index num="0000092_0" sort="K" type="지명">高麗</index>
+            <index num="0000093_0" ref="M_0000070" sort="K" type="이름">高宗</index>四十一年甲寅也。</paragraph>
+        </content>
+      </text>
+    </level3>
+    <level3 id="waa_000002">
+      <front>
+        <biblioData type="T">
+          <title>
+            <mainTitle>목조 이안사가 알동 천호소의 수(首)천호로서 다루가치를 겸하다 </mainTitle>
+          </title>
+          <source>
+            <mainTitle type="태백산사고본">太祖實錄 1책 1권</mainTitle>
+            <page begin="1장 B면"/>
+          </source>
+          <source>
+            <mainTitle type="국편영인본">太祖實錄 1책</mainTitle>
+            <page begin="1면"/>
+          </source>
+          <subjectClass>인물(人物)</subjectClass>
+          <subjectClass>역사(歷史)</subjectClass>
+          <subjectClass>왕실(王室)</subjectClass>
+          <subjectClass>어문학(語文學)</subjectClass>
+          <subjectClass>외교-원(元)</subjectClass>
+        </biblioData>
+      </front>
+      <text>
+        <content>
+          <paragraph align="center">○明年乙卯, <index num="0000094_0" sort="M" type="이름">散吉</index>聞于<index num="0000095_0" sort="K" type="지명">元</index>帝, <index num="0000096_0" sort="K" type="지명">元</index>爲立<index num="0000097_0" sort="M" type="지명">斡東</index>千戶所, 給降金牌, 爲<index num="0000098_0" sort="K" type="지명">南京</index>等處五千戶所, 首千戶、兼達魯花赤。 <index num="0000099_0" sort="M" type="지명">斡東</index>在<index num="0000100_0" sort="K" type="지명">南京</index>東南九十餘里, 距今<index num="0000101_0" sort="K" type="지명">慶興府</index>東三十里。 <index num="0000102_0" sort="M" type="지명">斡東</index>西北百二十餘里, 有<index num="0000103_0" sort="K" type="지명">豆門城</index>, 又其西百二十餘里, 有<index num="0000104_0" sort="M" type="지명">斡東沙吾里</index>。 <index num="0000105_0" sort="M" type="지명">沙吾里</index>, <index num="0000106_0" sort="M" type="지명">女眞</index>言站也。 站在<index num="0000107_0" sort="M" type="지명">斡東</index>管內, 故云然。 其平有大土城, <index num="0000108_0" sort="K" type="지명">南京</index>之平, 亦有大土城, 其北七八里, 又有大石城, 皆<index num="0000109_0" ref="M_0045906" sort="K" type="이름">穆祖</index>管領軍民之所居也。 <index num="0000110_0" ref="M_0045906" sort="K" type="이름">穆祖</index>雖居<index num="0000111_0" sort="M" type="지명">斡東</index>, 而往來諸城, 不常厥居。</paragraph>
+        </content>
+      </text>
+    </level3>
+  </level2>
+</level1>
